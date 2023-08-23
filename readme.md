@@ -23,7 +23,7 @@ O projeto está organizado em:
 
 3. **Inicie o Servidor:** Execute `npm start` para iniciar o servidor.
 
-4. **Teste os Endpoints:** Use o Insomnia ou Postman com exemplos de endpoints fornecidos na seção "Exemplos de Endpoints". Substitua `base_url` por `http://localhost:3000`.
+4. **Teste os Endpoints:** Use o Insomnia ou Postman com exemplos de endpoints fornecidos na seção "Exemplos de Endpoints". 
 
 5. **Interaja com a API:** Faça requisições aos endpoints, envie entradas e observe as respostas.
 
