@@ -2,9 +2,9 @@
   "name": "desafio-backend-modulo-02",
   "version": "1.0.0",
   "description": "![](https://i.imgur.com/xG74tOh.png)",
-  "main": "index.js",
+  
   "scripts": {
-    "dev": "nodemon ./src/index.js"
+    "start": "node ./src/index.js"
   },
   "keywords": [],
   "author": "",
